@@ -1,9 +1,9 @@
 let score = "33abc";
-console.log(typeof score);
+console.log(typeof score);//string
 
 let valInNumber = Number(score);
-console.log(typeof valInNumber);
-console.log(valInNumber);
+console.log(typeof valInNumber);//Number
+console.log(valInNumber);//NaN
 
 let isloggedIn = 1;
 let boolisloggedIn = Boolean(isloggedIn);
