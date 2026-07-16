@@ -14,3 +14,5 @@ console.log(boolisloggedIn);//true
 // 1 => true;0=>false
 //""=>false;"non-EmptyString"=>true
 
+// we can also convert anything to String just as boolean and Number
+
