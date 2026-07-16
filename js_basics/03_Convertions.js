@@ -1,0 +1,16 @@
+let score = "33abc";
+console.log(typeof score);
+
+let valInNumber = Number(score);
+console.log(typeof valInNumber);
+console.log(valInNumber);
+
+let isloggedIn = 1;
+let boolisloggedIn = Boolean(isloggedIn);
+console.log(typeof boolisloggedIn);//boolean
+console.log(boolisloggedIn);//true
+
+//when converting anything to boolean
+// 1 => true;0=>false
+//""=>false;"non-EmptyString"=>true
+
