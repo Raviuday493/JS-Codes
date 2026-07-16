@@ -1,3 +1,7 @@
+// JavaScript is a dynamically typed language.
+// What does dynamically typed mean?
+// It means you don't have to declare the data type of a variable. JavaScript figures it out automatically while the program is running.
+
 const accountId = 144553
 let accountEmail = "ravi@.com"
 let accountAge = 20
@@ -13,4 +17,4 @@ let accountState;//when printed will show undefined
 
 console.log(accountId);
 
-console.table([accountEmail,accountPass,accountCity,accountState])
+console.table([accountEmail, accountPass, accountCity, accountState])
